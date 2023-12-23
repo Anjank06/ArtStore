@@ -41,3 +41,18 @@ body {
 #p2 {
     color: #184233;text-align: center;
 }
+#about {
+    padding: auto;
+    color: #421827;
+}
+.row {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.about-col-1 {
+
+}
+.about-col-2 {
+
+}
