@@ -1,0 +1,43 @@
+body {
+    font-family: 'Helvetica', Helvetica; /* Set your desired font family */
+    background-color: #184233;
+}
+.green {
+    color:  #184233;
+}
+.maroon {
+    color: #4E2D39
+}
+#thick {
+    font-weight: bold;
+    display: inline;
+}
+#contentBox {
+    background-color: #ffffff; 
+    border: 1px solid #e0e0e0; 
+    /* padding: 20px;  */
+    margin: auto; 
+    margin-top: 50px;
+    margin: 70px;
+    max-height: 700px;
+    max-width: auto; 
+    overflow: hidden;
+}
+#PortfolioBox {
+    background-color: #ffffff; 
+    border: 1px solid #e0e0e0; 
+    /* padding: 20px;  */
+    margin: auto; 
+    margin-top: 50px;
+    margin: 70px;
+    max-height: 500px;
+    max-width: auto; 
+    overflow: hidden;
+}
+#p1 {
+    color: #184233;text-align: center;
+    margin: 20%;
+}
+#p2 {
+    color: #184233;text-align: center;
+}
